@@ -1,0 +1,21 @@
+/*定义固定导航*/
+.secondmenu a {
+    font-size: 10px;
+    color: #4A515B;
+    text-align: center;
+}
+
+.navbar-static-top {
+    background-color: #212121;
+    margin-bottom: 5px;
+}
+
+.navbar-brand {
+    background: url('') no-repeat 10px 8px;
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 50px;
+    color: #fff;
+}
+/*定义二级菜单样式*/
+
